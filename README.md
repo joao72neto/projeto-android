@@ -12,13 +12,14 @@
   
 </p>
 <p align="left">
-    <b>Consiste de um site que conta de forma resumida a história do Android a fim de aplicar conceitos de design e responsividade</b>
+    <b>Consiste de um site que conta de forma resumida a história do mascote do Android, a fim de aplicar conceitos de design e responsividade</b>
 </p>
 
 <h2>Layout</h2>
 
 ##
 
+![LayoutSite](https://github.com/user-attachments/assets/6e238d28-f2da-4a6e-9c2a-5398e4871ea8)
 
 <h2 id="technologies">💻 Technologies</h2>
 
