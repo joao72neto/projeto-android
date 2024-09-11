@@ -1,8 +1,9 @@
-<h1 align="center" style="font-weight: bold;">Projeto Android 💻</h1>
+<h1 align="center" style="font-weight: bold;">Projeto Android <img src="https://github.com/user-attachments/assets/40dac1a7-9c05-4d70-b604-b97ed0c4dd0b" width=30px></h1> 
+
 
 <p align="center">
  <a href="#tech">Tecnologias</a> • 
- <a href="#started">Primeiros Passos</a> • 
+ <a href="#started">Primeiros Passos</a> 
 </p>
 
 <h2>Descrição</h2>
