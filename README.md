@@ -19,7 +19,8 @@
 
 ##
 
-![LayoutSite](https://github.com/user-attachments/assets/6e238d28-f2da-4a6e-9c2a-5398e4871ea8)
+![LayoutSite](https://github.com/user-attachments/assets/64938caf-8cae-4b5f-bc81-643765a20398)
+
 
 <h2 id="technologies">💻 Technologies</h2>
 
