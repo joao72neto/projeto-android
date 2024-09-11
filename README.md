@@ -5,6 +5,8 @@
  <a href="#started">Getting Started</a> • 
 </p>
 
+<h2>Descrição</h2>
+
 <p align="left">
     <b>Projeto feito com o auxílio do professor Gustavo Guanabara do Canal Curso em Vídeo</b>
   
