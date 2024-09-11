@@ -1,8 +1,8 @@
 <h1 align="center" style="font-weight: bold;">Projeto Android 💻</h1>
 
 <p align="center">
- <a href="#tech">Technologies</a> • 
- <a href="#started">Getting Started</a> • 
+ <a href="#tech">Tecnologias</a> • 
+ <a href="#started">Primeiros Passos</a> • 
 </p>
 
 <h2>Descrição</h2>
@@ -23,12 +23,12 @@
 ![LayoutSite](https://github.com/user-attachments/assets/64938caf-8cae-4b5f-bc81-643765a20398)
 
 
-<h2 id="technologies">💻 Technologies</h2>
+<h2 id="tech">💻 Tecnologias</h2>
 
 - HTML5
 - CSS3
 
-<h2 id="started">🚀 Getting started</h2>
+<h2 id="started">🚀 Primeiros Passos</h2>
 
 Para executar o site localmente é muito simples. Basta clonar o repositório e executar o arquivo index.html em qualquer navegador
 
