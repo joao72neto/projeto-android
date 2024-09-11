@@ -38,9 +38,9 @@ Para executar o site localmente é muito simples. Basta clonar o repositório e 
 
 <h3>Clonando</h3>
 
-How to clone your project
+Como clonar este projeto
 
 ```bash
-git clone your-project-url-in-github
+git clone https://github.com/joao72neto/projeto-android
 ```
 
