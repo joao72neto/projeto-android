@@ -18,8 +18,6 @@
 
 <h2>Layout</h2>
 
-##
-
 ![LayoutSite](https://github.com/user-attachments/assets/64938caf-8cae-4b5f-bc81-643765a20398)
 
 
