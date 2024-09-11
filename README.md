@@ -8,11 +8,12 @@
 <h2>Descrição</h2>
 
 <p align="left">
-    <b>Projeto feito com o auxílio do professor Gustavo Guanabara do Canal Curso em Vídeo</b>
-  
+    <b>Projeto feito com o auxílio do professor Gustavo Guanabara do canal 
+    <a href="https://www.youtube.com/user/cursosemvideo" target="_blank">Curso em Vídeo</a>
+    </b>
 </p>
 <p align="left">
-    <b>Consiste de um site que conta de forma resumida a história do mascote do Android, a fim de aplicar conceitos de design e responsividade</b>
+    <b>Consiste em um site que conta de forma resumida a história do mascote do Android, a fim de aplicar conceitos de design e responsividade</b>
 </p>
 
 <h2>Layout</h2>
