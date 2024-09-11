@@ -5,11 +5,11 @@
  <a href="#started">Getting Started</a> • 
 </p>
 
-<p align="center">
+<p align="left">
     <b>Projeto feito com o auxílio do professor Gustavo Guanabara do Canal Curso em Vídeo</b>
   
 </p>
-<p align="center">
+<p align="left">
     <b>Consiste de um site que conta de forma resumida a história do Android a fim de aplicar conceitos de design e responsividade</b>
 </p>
 
